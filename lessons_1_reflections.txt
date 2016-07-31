@@ -1,0 +1,50 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It's help me debugging much much faster typing errors.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+You can try some idees with in mind that if something wrong happened you can go back to a stable version.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, 
+vs having versions automatically saved, like Google Docs does?
+You better controle when you want to save and keep a clean code that is working correctly. Otherwise in an automatically
+save, you will have steps with code that you have no idee if it is working or not.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others,
+like Google Docs, treat each file separately?
+For dev code, files are linked in a way or another, its intended to work together, so all files need to be saved together.
+In google doc, each file have no link with other files, so it does not need to save multiple files at the same time.
+
+How can you use the commands git log and git diff to view the history of files?
+use git log to view all steps then use git diff to view differenceses between each steps.
+
+last log : 3884eab839af1e82c44267484cf2945a766081f3
+
+How might using version control make you more confident to make changes that could break something?
+if you break anything you always can go back to a good step.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I wana use it for following my code.
+
+fa4c6bade4970c282b3870ad16f1bde8164663a9    X
+708bcce690e5faa5739bd471507c102ea16b77f7    X
+547f4171a82ec6429d002c1acef357aec41d3f17    X
+71d52709ddc4066e7a79a1d0a412e43429a0cdeb    Ok
+7c81b8021ec16c5c7b240220314d01200957d605
+9c76f50d1aaaa3ac9841286cca2b49bc67f29ae9
+003c8c197cd3b1e5b28b58f53ee14d7ebaa9bb3a    ici speed clone up
+746f762e38b5bbb7d0b837464ef6ec3f8ee5bf91
+c12dc49709452bcfb6084b3cc7dc86042cb78ca3
+3d4ff5c87b906a5efd83b85d5d5f496864229db0
+a8591f086afa1db009aaa4398aca14c3b26b72da
+031b9145feecb4eec6079bba39815381ce63b40c
+61f136b94bb98232aad9fc631900460db076018f
+95dcfabe4ba7ff44fe0178f553dd8457b8f2c197
+2ad419d9a7357cbaaef822615d41dae6b03dd0b5
+25ea2a893c8b552cbf380cc362765da4d19131f2
+8491766239ddf967741f04f88218e535867b4f39
+f827e63fe3157ffd40309c20b58ab0af0a616ec9
+d752d3be909641e85e40a6d0a7821d99815bb96c
+ed77f5d35f8b087953c7e2d76943c28c0f7b6349
+21c351bb924e6c2c74d5bebe5dd3bf2c2d0ffa6e
+3ca7942b01fa60e54aa67249a9f7010900c91447
+2decdcf49dba2e002ba8ecd87ca0046eea48982e
