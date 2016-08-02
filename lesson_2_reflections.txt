@@ -11,3 +11,6 @@ before commiting, always check what is the difference between staging area and w
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 when i want to try/test new features that i am not sure will be used or going to be ok.
+
+How do the diagrams help you visualize the branch structure?
+Diagrames help to understand the structure of branches, so how the projects are organises.
