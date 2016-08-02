@@ -17,3 +17,8 @@ Diagrames help to understand the structure of branches, so how the projects are 
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Merging two branches help to get new and deleted features from a side branche. So in the diagram it makes an island.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+auto merging helps to rapidly and easely add new features from a side branch 
+but when 2 branches are working on the same code in different ways, it can show that their is a conflict and where it is.
+manual merging in all cases are always longer because you need to find where are the conflicts.
