@@ -14,3 +14,6 @@ when i want to try/test new features that i am not sure will be used or going to
 
 How do the diagrams help you visualize the branch structure?
 Diagrames help to understand the structure of branches, so how the projects are organises.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches help to get new and deleted features from a side branche. So in the diagram it makes an island.
