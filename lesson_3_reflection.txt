@@ -17,3 +17,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 Maybe sharing an online space, but in that case when some one update this space either he add to ask every one if he can 
 or maybe he would delete some stuffs by not caring. Maybe using mail and sending new version to every one, 
 but in that case every one needs to merge the new version, so it's a lot of work.  
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you want to do a pull request on 2 different branches that are not master. In this approach we keep the master branch ok and 
+just testing multiple features from different branches.
