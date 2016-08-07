@@ -12,3 +12,8 @@ Branches is only to localy in the same repository work on a different version of
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 it help git to merge when doing git pull.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Maybe sharing an online space, but in that case when some one update this space either he add to ask every one if he can 
+or maybe he would delete some stuffs by not caring. Maybe using mail and sending new version to every one, 
+but in that case every one needs to merge the new version, so it's a lot of work.  
